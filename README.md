@@ -1,1 +1,5 @@
-Infinite M4 - Share Ideas, Projects and Blogs
+# Infinite M4
+
+Share Ideas, Projects and Blogs
+
+> Skunkworks Idea
